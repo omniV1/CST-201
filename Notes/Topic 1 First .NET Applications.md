@@ -60,5 +60,5 @@ return m
 2. Document algorithms with pseudo-code, flowcharts, and conversation
 3. Natural language is the most problematic of the three
 4. Ensure your models are clearly communicated and show failure cases
-5. OPTIMIZE after getting it to work
+
     
