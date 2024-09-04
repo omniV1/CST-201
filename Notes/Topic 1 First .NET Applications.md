@@ -1,5 +1,3 @@
-Here's a more professionally formatted version of your markdown:
-
 # Topic 1: Introduction to Data and Algorithms
 
 ## Week 1, Class 1
