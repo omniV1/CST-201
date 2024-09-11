@@ -37,14 +37,24 @@ a graph using nodes and edges shows relational data
 a graph using nodes shows data
 
 Adjacent vertices are connected by an edge.
+
 The degree of a vertex is the number of edges connected to it.
+
 A subgraph is a graph within a graph, does not contain all the verticies. 
+
 A path is the traversal of a graph, allows us to move from one point in a graph to another. 
+
 A cycle when you leave one vertex and go clear back around to the same vertex. 
-A Simple cycle is when you do not repeat edges or verticies. Except for the start / end. 
+
+A Simple cycle is when you do not repeat edges or verticies. Except for the start / end. \
+
 The length of a path / cycle is the number of edges we go through. 
+
 An Acyclic graph is one with no cycles. 
+
 A directed path can only go one direction.
+
+simple directed path is 
 
 
 
