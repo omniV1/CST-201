@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rinck\\.nuget\\packages\\": {}
+    "C:\\Users\\Owenl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GCU\\CST-201\\code\\SieveOfEratosthenes\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\git\\CST-201\\Code\\SieveOfEratosthenes\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\GCU\\CST-201\\code\\SieveOfEratosthenes\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\rinck\\.nuget\\packages\\",
-      "outputPath": "C:\\GCU\\CST-201\\code\\SieveOfEratosthenes\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\git\\CST-201\\Code\\SieveOfEratosthenes\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Owenl\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\CST-201\\Code\\SieveOfEratosthenes\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rinck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owenl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
