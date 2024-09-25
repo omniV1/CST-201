@@ -1,6 +1,6 @@
 ﻿// Owen Lindsey
-// 09/21/2024
-// CST-201 Exercise 3 
+// 09/22/2024
+// CST-201 Introduction 
 // This work is my own
 
 using System;
