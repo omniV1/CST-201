@@ -1,1 +1,0 @@
-//Input: Array A[0..n − 1] of orderable values//Output: Array S[0..n − 1] of A’s elements sorted// in nondecreasing orderfor i ← 0 to n − 1 doCount[i] ← 0for i ← 0 to n − 2 dofor j ← i + 1 to n − 1 doif A[i] <A[j ]Count[j] ← Count[j] + 1else Count[i] ← Count[i] + 1for i ← 0 to n −1 doS[Count[i]] ← A[i]return S

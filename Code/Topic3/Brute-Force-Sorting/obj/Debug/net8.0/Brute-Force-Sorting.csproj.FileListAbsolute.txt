@@ -1,0 +1,15 @@
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\bin\Debug\net8.0\Brute-Force-Sorting.exe
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\bin\Debug\net8.0\Brute-Force-Sorting.deps.json
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\bin\Debug\net8.0\Brute-Force-Sorting.runtimeconfig.json
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\bin\Debug\net8.0\Brute-Force-Sorting.dll
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\bin\Debug\net8.0\Brute-Force-Sorting.pdb
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.AssemblyInfoInputs.cache
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.AssemblyInfo.cs
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.csproj.CoreCompileInputs.cache
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.sourcelink.json
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.dll
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\refint\Brute-Force-Sorting.dll
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.pdb
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\Brute-Force-Sorting.genruntimeconfig.cache
+C:\git\CST-201\code\Topic3\Brute-Force-Sorting\obj\Debug\net8.0\ref\Brute-Force-Sorting.dll
