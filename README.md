@@ -1,7 +1,7 @@
 # CST-201
 Algorithms and Data Structures
 
-I apologize for the confusion. I'll recreate the table with a separate column for the file name as requested. Here's the revised markdown table:
+
 
 | Directory | Subfolder | File | Description |
 |-----------|-----------|------|-------------|
@@ -47,5 +47,3 @@ I apologize for the confusion. I'll recreate the table with a separate column fo
 | | Topic 3 | | Subdirectory for Topic 3 notes |
 | | | Chapter3.1.md | Markdown notes for Chapter 3.1 |
 | Notes | | README.md | Project or repository README file |
-
-This table now has four columns: Directory, Subfolder, File, and Description. It maintains the hierarchical structure while clearly separating the file names into their own column for better clarity and organization.
