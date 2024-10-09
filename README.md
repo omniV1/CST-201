@@ -1,8 +1,6 @@
 # CST-201
 Algorithms and Data Structures
 
-
-
 | Directory | Subfolder | File | Description |
 |-----------|-----------|------|-------------|
 | Code | | | Main code directory |
@@ -47,3 +45,4 @@ Algorithms and Data Structures
 | | Topic 3 | | Subdirectory for Topic 3 notes |
 | | | Chapter3.1.md | Markdown notes for Chapter 3.1 |
 | Notes | | README.md | Project or repository README file |
+
